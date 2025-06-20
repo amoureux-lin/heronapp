@@ -35,7 +35,7 @@ dependencies:
   # 用于判断应用运行在 Web、Android、iOS 等平台
   universal_platform: ^1.1.0
   #在 Dart 中访问 Web DOM 所需（例如 Canvas）
-  web: ^1.1.1
+#  web: ^1.1.1
   crypto: ^3.0.6
 
   #日志

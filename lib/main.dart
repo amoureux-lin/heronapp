@@ -7,14 +7,16 @@ import 'app.dart';
 import 'core/network/api.dart';
 import 'core/utils/AppUtil.dart';
 
+
+
 void main() async {
   //确保 Flutter Widgets 库已经绑定并初始化
   WidgetsFlutterBinding.ensureInitialized();
   //配置初始化
   AppConfig.initialize();
 
-  final deviceId = await AppUtil.getDeviceUUID();
-  appLogger.i("当前设备ID:$deviceId");
+  final uuid = await AppUtil.getDeviceUUID();
+  appLogger.i("当前设备ID:$uuid");
 
   // final container = ProviderContainer();
   // final api = container.read(apiProvider);
