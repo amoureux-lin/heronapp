@@ -1,0 +1,23 @@
+{
+  "nav_home": "首页",
+  "nav_party": "派对",
+  "nav_plaza": "广场",
+  "nav_club": "俱乐部",
+  "nav_profile": "我的",
+
+  "home_change_theme": "切换主题",
+  "home_theme_default": "默认主题",
+  "home_theme_1": "主题1",
+  "home_theme_2": "主题2",
+  "home_theme_3": "主题3",
+  "home_theme_4": "主题4",
+  "home_theme_5": "主题5",
+  "home_theme_6": "主题6",
+  "home_change_language": "语言切换",
+  "home_language_default": "默认",
+  "home_language_zh": "中文",
+  "home_language_en": "English",
+  "home_language_ko": "한국어",
+  "home_language_ja": "日本語",
+  "switch_language": "切换语言"
+}

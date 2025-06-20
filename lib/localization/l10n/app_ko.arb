@@ -1,0 +1,23 @@
+{
+  "nav_home": "홈",
+  "nav_party": "파티",
+  "nav_plaza": "광장",
+  "nav_club": "클럽",
+  "nav_profile": "프로필",
+
+  "home_change_language": "언어",
+  "home_change_theme": "테마",
+  "home_language_default": "기본",
+  "home_language_zh": "中文",
+  "home_language_en": "English",
+  "home_language_ko": "한국어",
+  "home_language_ja": "日本語",
+  "switch_language": "언어 선택",
+  "home_theme_default": "기본 테마",
+  "home_theme_1": "테마 1",
+  "home_theme_2": "테마 2",
+  "home_theme_3": "테마 3",
+  "home_theme_4": "테마 4",
+  "home_theme_5": "테마 5",
+  "home_theme_6": "테마 6"
+}

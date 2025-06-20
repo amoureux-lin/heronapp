@@ -1,0 +1,23 @@
+{
+  "nav_home": "Home",
+  "nav_party": "Party",
+  "nav_plaza": "Plaza",
+  "nav_club": "Club",
+  "nav_profile": "Profile",
+
+  "home_change_theme": "Theme",
+  "home_theme_default": "Default",
+  "home_theme_1": "Theme 1",
+  "home_theme_2": "Theme 2",
+  "home_theme_3": "Theme 3",
+  "home_theme_4": "Theme 4",
+  "home_theme_5": "Theme 5",
+  "home_theme_6": "Theme 6",
+  "home_change_language": "Language",
+  "home_language_default": "Default",
+  "home_language_zh": "中文",
+  "home_language_en": "English",
+  "home_language_ko": "한국어",
+  "home_language_ja": "日本語",
+  "switch_language": "Select language"
+}
